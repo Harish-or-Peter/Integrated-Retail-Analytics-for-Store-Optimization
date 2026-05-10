@@ -77,7 +77,7 @@ deployment-readiness.""")
 
 md("""# **GitHub Link -**""")
 
-md("""[https://github.com/<your-username>/integrated-retail-analytics](https://github.com/) — *replace before submission*""")
+md("""[https://github.com/Harish-or-Peter/Integrated-Retail-Analytics-for-Store-Optimization](https://github.com/Harish-or-Peter/Integrated-Retail-Analytics-for-Store-Optimization)""")
 
 md("""# **Problem Statement**
 """)
