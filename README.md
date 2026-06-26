@@ -3,7 +3,7 @@
 > **End-Course Summative Project — Advanced Machine Learning (AlmaBetter)**
 > A unified ML pipeline that addresses *anomaly detection*, *store segmentation*,
 > *demand forecasting*, and *market basket analysis* on the Walmart weekly-sales dataset
-> (45 stores × 81 departments × 143 weeks → 421,570 rows).
+> (45 stores×81 departments×143 weeks → 421,570 rows)
 
 ---
 
